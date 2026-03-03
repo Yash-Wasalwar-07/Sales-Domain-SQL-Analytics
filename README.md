@@ -6,3 +6,6 @@ SQL sales analytics project for a hardware maker selling via retailers (Croma, F
 -- Business Terms used in the project
 
 -- Data Model
+
+-- Dataset
+Due to terms and conditions of the dataset provider, it cannot be publically accessible, but I can show the preview of each like what type of data was present with placeholder data.
